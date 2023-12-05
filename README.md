@@ -1,0 +1,2 @@
+# NEWLSTM
+This is my FIRST PROJECT
